@@ -4,6 +4,10 @@
 
 Minha experiência na advocacia orienta os problemas que quero resolver com tecnologia: organizar informações, reduzir tarefas repetitivas e facilitar a preparação do trabalho jurídico. Este espaço reúne o desenvolvimento dessas ferramentas e o aprendizado por trás delas.
 
+## Projeto principal
+
+- **[Doc Fracionado](https://ragrezende.github.io/doc-fracionado/):** divide PDFs para o peticionamento eletrônico, direto no navegador. Os arquivos não saem do computador, e cada limite de tribunal traz a fonte e a data da verificação. Código aberto, versão 0.1. [Código](https://github.com/ragrezende/doc-fracionado).
+
 ## Em desenvolvimento
 
 - **Jurídico Documentos:** organização de checklists, cronologia dos fatos e referências documentais, com exportação de resumos. Primeira versão experimental.
@@ -17,6 +21,6 @@ Parto de problemas da rotina do escritório e busco soluções pequenas que tamb
 
 Meu histórico de estudos em Python, SQL e desenvolvimento web permanece nos repositórios, identificado conforme o estágio de cada projeto.
 
-[Portfólio — código](https://github.com/ragrezende/portfolio-website) · [LinkedIn](https://www.linkedin.com/in/ragrezende)
+[Site](https://ragrezende.github.io/portfolio-website/) · [Portfólio — código](https://github.com/ragrezende/portfolio-website) · [LinkedIn](https://www.linkedin.com/in/ragrezende)
 
 <!-- Atualizado com apoio do Codex em 19/10/2026, conforme direção aprovada por Rafael. -->
